@@ -51,14 +51,6 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "dependencies": {
-            "Blazorise.Bulma": {
-              "target": "Package",
-              "version": "[2.0.4, )"
-            },
-            "Blazorise.Icons.FontAwesome": {
-              "target": "Package",
-              "version": "[2.0.4, )"
-            },
             "Bluehill.Blazor.GHPages": {
               "target": "Package",
               "version": "[1.0.3, )"
