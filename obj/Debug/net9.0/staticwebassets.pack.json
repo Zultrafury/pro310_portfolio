@@ -9,12 +9,16 @@
       "PackagePath": "staticwebassets\\css\\app.css"
     },
     {
-      "Id": "E:\\Coding\\Neumont\\pro310_portfolio\\wwwroot\\icon-192.png",
-      "PackagePath": "staticwebassets\\icon-192.png"
+      "Id": "E:\\Coding\\Neumont\\pro310_portfolio\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
     },
     {
       "Id": "E:\\Coding\\Neumont\\pro310_portfolio\\wwwroot\\index.html",
       "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "E:\\Coding\\Neumont\\pro310_portfolio\\wwwroot\\zf_avatar.png",
+      "PackagePath": "staticwebassets\\zf_avatar.png"
     },
     {
       "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.PortfolioWebsite.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",

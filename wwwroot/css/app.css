@@ -1,3 +1,8 @@
+:root {
+    --primary: #48e400;
+    --secondary: black;
+}
+
 .valid.modified:not([type=checkbox]) {
     outline: 1px solid #26b050;
 }
@@ -12,13 +17,37 @@
 
 *, *:visited {
     font-family: monospace;
-    color: #48e400;
+    color: var(--primary);
+    b {
+        color: var(--secondary);
+        background-color: var(--primary);
+        font-weight: lighter;
+    }
 }
 
 div.invert {
-    background-color: #48e400;
+    background-color: var(--primary);
+    border-radius: 0.5rem;
+    
     * {
-        color: #000000;
+        color: var(--secondary);
+    }
+}
+
+.centercontainer {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    
+    >* {
+        margin-right: 1rem;
+        margin-left: 1rem;
+    }
+}
+
+.navbar {
+    * {
+        margin: 0.5rem 1rem;
     }
 }
 
@@ -70,7 +99,7 @@ div.invert {
     }
 
         .loading-progress circle:last-child {
-            stroke: #48e400;
+            stroke: var(--primary);
             stroke-dasharray: calc(3.141 * var(--blazor-load-percentage, 0%) * 0.8), 500%;
             transition: stroke-dasharray 0.05s ease-in-out;
         }

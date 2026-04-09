@@ -1,6 +1,63 @@
 ﻿@page "/Projects"
-<h3>Projects</h3>
+
+<PageTitle>Projects - Zultrafury</PageTitle>
+
+<div style="width: fit-content; margin: auto; justify-content: center">
+    <h1 style="margin-bottom: 3rem">Projects</h1>
+    @foreach (Project p in ps)
+    {
+        <div style="margin-bottom: 3rem">
+            <h3><strong><b>@p.Name</b></strong></h3>
+            @if (p.Image != "")
+            {
+                <img src="@p.Image" style="width: 16rem; object-fit: cover; float: right; margin-left: 1rem" alt="@p.Name thumbnail"/>
+            }
+            <div style="max-width: 40rem">
+                <p>@p.Description</p>
+                <div class="invert" style="width: fit-content; padding: 0.5rem"><a href="@p.Link" target="_blank">Visit</a></div>
+            </div>
+        </div>
+    }
+</div>
 
 @code {
-    
+    protected class Project
+    {
+        public string Name = "";
+        public string Description = "";
+        public string Image = "";
+        public string Link = "";
+    }
+
+    List<Project> ps = new()
+    {
+        new()
+        {
+            Name = "Calliope RPG Engine",
+            Description = "A multi-featured open-source RPG game engine I made " +
+                          "in C# using Monogame for my college capstone.",
+            Image = "zf_avatar.png",
+            Link = "https://github.com/Zultrafury/CalliopeRPGEngine"
+        },
+        new()
+        {
+            Name = "Raylib Physics Games",
+            Description = "Two programs I made with Raylib for C++.",
+            Link = "https://github.com/Zultrafury/GAT315_gamephysics/releases/tag/v1"
+        },
+        new()
+        {
+            Name = "2D Game Engine",
+            Description = "A scene-based game engine I wrote in C++ using SDL2 " +
+                          "and FMOD. Includes a game I made with it.",
+            Image = "zf_avatar.png",
+            Link = "https://github.com/Zultrafury/gat150_project/releases/tag/v1"
+        },
+        new()
+        {
+            Name = "C++ Mini Games",
+            Description = "Two games I coded in C++ using SDL2 and FMOD.",
+            Link = "https://github.com/Zultrafury/csc196_project/releases/tag/v1"
+        }
+    };
 }

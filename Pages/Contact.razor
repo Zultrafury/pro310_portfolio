@@ -1,6 +1,24 @@
 ﻿@page "/Contact"
-<h3>Contact</h3>
+
+<PageTitle>Contact - Zultrafury</PageTitle>
+
+<h1 style="text-align: center">Contact</h1>
+
+@foreach (var c in contacts)
+{
+    <div class="centercontainer">
+        <div class="invert" style="width: 2rem; height: 2rem; margin: auto 0; padding: 0.25rem; display: flex">
+            <img src="@c.Item2" style="width: 2rem; height: 2rem;" alt="@c.Item1 icon"/>
+        </div>
+        <h3><b>@c.Item1:</b></h3>
+        <p>@c.Item3</p>
+    </div>
+}
 
 @code {
-    
+    List<(string,string,string)> contacts = new()
+    {
+        ("Email","zf_avatar.png","zultrafury@gmail.com"),
+        ("Discord","image","zultrafury")
+    };
 }
