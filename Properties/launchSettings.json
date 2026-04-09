@@ -19,6 +19,8 @@
       "launchBrowser": true,
       "inspectUri": "{wsProtocol}://{url.hostname}:{url.port}/_framework/debug/ws-proxy?browser={browserInspectUri}",
       "applicationUrl": "https://localhost:7102;http://localhost:5108",
+      "launchUrl": "http://localhost:5108/pro310_portfolio/",
+      "commandLineArgs": "--pathbase=/pro310_portfolio",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }

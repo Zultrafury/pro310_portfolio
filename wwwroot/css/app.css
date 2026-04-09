@@ -10,6 +10,18 @@
     color: red;
 }
 
+*, *:visited {
+    font-family: monospace;
+    color: #48e400;
+}
+
+div.invert {
+    background-color: #48e400;
+    * {
+        color: #000000;
+    }
+}
+
 #blazor-error-ui {
     color-scheme: light only;
     background: lightyellow;
@@ -58,7 +70,7 @@
     }
 
         .loading-progress circle:last-child {
-            stroke: #1b6ec2;
+            stroke: #48e400;
             stroke-dasharray: calc(3.141 * var(--blazor-load-percentage, 0%) * 0.8), 500%;
             transition: stroke-dasharray 0.05s ease-in-out;
         }

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "B7uLEydBYTQVuXqy/wW5wL1j+dS3AJvUqX7TEhChFzM=",
+  "Hash": "etp8HHka1mNvvExERQFI3A4PV83DKLg3lYuAd+Ls3W4=",
   "Source": "PortfolioWebsite",
   "BasePath": "/",
   "Mode": "Root",
@@ -73,8 +73,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "manifest",
-      "Fingerprint": "uuq6ktd7k9",
-      "Integrity": "inqGVYS5W3rDD6W4Yi0OHXwUDwQnhwUEQ/ycU9P7fxY=",
+      "Fingerprint": "dxt2zzrcyd",
+      "Integrity": "ASMftkqOE8RN+eywd+nTMzacQhgluQ/bsCQUIiVa6C0=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Debug\\net9.0\\blazor.boot.json"
@@ -913,8 +913,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "symbol",
-      "Fingerprint": "o6yjvp0ekk",
-      "Integrity": "0DY+h6xvysJomclxfLcGGeYh8dMTZsxSJPgaXXOJRgY=",
+      "Fingerprint": "9e33bzr2n9",
+      "Integrity": "D0WxMmltzguujLclQAetEyf+FNQ9Q1MnKLWNv94crAo=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Debug\\net9.0\\PortfolioWebsite.pdb"
@@ -934,8 +934,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "runtime",
-      "Fingerprint": "h3j9eqiyah",
-      "Integrity": "EyEMghEQ+d6uVn1aJnBiGctJhs1eWd0W9HkkVDCkaoc=",
+      "Fingerprint": "w7s571tvek",
+      "Integrity": "HLkOVy+KO3Fpnam+/1a/8THmeCZhsuDoE84dx3STdCg=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "E:\\Coding\\Neumont\\pro310_portfolio\\obj\\Debug\\net9.0\\webcil\\PortfolioWebsite.wasm"
@@ -7178,12 +7178,12 @@
       "OriginalItemSpec": "E:\\Coding\\Neumont\\pro310_portfolio\\bin\\Debug\\net9.0\\wwwroot\\_framework\\System.Net.Sockets.wasm"
     },
     {
-      "Identity": "E:\\Coding\\Neumont\\pro310_portfolio\\obj\\Debug\\net9.0\\compressed\\nj7bf95yu8-81sotqnb8s.gz",
+      "Identity": "E:\\Coding\\Neumont\\pro310_portfolio\\obj\\Debug\\net9.0\\compressed\\nj7bf95yu8-hoauqalu81.gz",
       "SourceId": "PortfolioWebsite",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Coding\\Neumont\\pro310_portfolio\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "css/app#[.{fingerprint=81sotqnb8s}]?.css.gz",
+      "RelativePath": "css/app#[.{fingerprint=hoauqalu81}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -7192,8 +7192,8 @@
       "RelatedAsset": "E:\\Coding\\Neumont\\pro310_portfolio\\wwwroot\\css\\app.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "5ltchzjs6o",
-      "Integrity": "N5JrG+Pqdmfaypc2TRz6d9RkCyFKw0S5EjtuPI3Qfrg=",
+      "Fingerprint": "vyey7kuud2",
+      "Integrity": "uejq1jrjA26WxIifyucc2EG9wj/iub0URYKdYMFHH1c=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "E:\\Coding\\Neumont\\pro310_portfolio\\wwwroot\\css\\app.css"
@@ -7451,7 +7451,7 @@
       "OriginalItemSpec": "E:\\Coding\\Neumont\\pro310_portfolio\\bin\\Debug\\net9.0\\wwwroot\\_framework\\System.Diagnostics.Process.wasm"
     },
     {
-      "Identity": "E:\\Coding\\Neumont\\pro310_portfolio\\obj\\Debug\\net9.0\\compressed\\q0hp03zyw9-uuq6ktd7k9.gz",
+      "Identity": "E:\\Coding\\Neumont\\pro310_portfolio\\obj\\Debug\\net9.0\\compressed\\q0hp03zyw9-dxt2zzrcyd.gz",
       "SourceId": "PortfolioWebsite",
       "SourceType": "Computed",
       "ContentRoot": "E:\\Coding\\Neumont\\pro310_portfolio\\obj\\Debug\\net9.0\\compressed\\",
@@ -7465,8 +7465,8 @@
       "RelatedAsset": "E:\\Coding\\Neumont\\pro310_portfolio\\bin\\Debug\\net9.0\\wwwroot\\_framework\\blazor.boot.json",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "2f7hdxb0ff",
-      "Integrity": "zkCpci8ii4Y99Zh9lnL6uHYC17+V+1Pefx4fK+IanP0=",
+      "Fingerprint": "srw7rl9je2",
+      "Integrity": "WJ96IZfMcHC98X3jGx4PLfFf8ttR6U8xAS01Y/qC0j4=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "E:\\Coding\\Neumont\\pro310_portfolio\\bin\\Debug\\net9.0\\wwwroot\\_framework\\blazor.boot.json"
@@ -7997,12 +7997,12 @@
       "OriginalItemSpec": "E:\\Coding\\Neumont\\pro310_portfolio\\bin\\Debug\\net9.0\\wwwroot\\_framework\\System.Text.Encoding.Extensions.wasm"
     },
     {
-      "Identity": "E:\\Coding\\Neumont\\pro310_portfolio\\obj\\Debug\\net9.0\\compressed\\u280au3bye-7jfti4by2n.gz",
+      "Identity": "E:\\Coding\\Neumont\\pro310_portfolio\\obj\\Debug\\net9.0\\compressed\\u280au3bye-fx7dmjjcte.gz",
       "SourceId": "PortfolioWebsite",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Coding\\Neumont\\pro310_portfolio\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "index#[.{fingerprint=7jfti4by2n}]?.html.gz",
+      "RelativePath": "index#[.{fingerprint=fx7dmjjcte}]?.html.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -8011,8 +8011,8 @@
       "RelatedAsset": "E:\\Coding\\Neumont\\pro310_portfolio\\wwwroot\\index.html",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "n5ap2sqv2e",
-      "Integrity": "q5E61dREoFk7TZIrIQ1nPxQTjBKr2OmF6wEpqsLAIL8=",
+      "Fingerprint": "hfkwn4idhh",
+      "Integrity": "k2lD8Ulz9GTC2hkB7CCSahGB+SuemwDa3LN7+uR1Ot0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "E:\\Coding\\Neumont\\pro310_portfolio\\wwwroot\\index.html"
@@ -8459,12 +8459,12 @@
       "OriginalItemSpec": "E:\\Coding\\Neumont\\pro310_portfolio\\bin\\Debug\\net9.0\\wwwroot\\_framework\\System.Net.wasm"
     },
     {
-      "Identity": "E:\\Coding\\Neumont\\pro310_portfolio\\obj\\Debug\\net9.0\\compressed\\xgzdhkwu75-o6yjvp0ekk.gz",
+      "Identity": "E:\\Coding\\Neumont\\pro310_portfolio\\obj\\Debug\\net9.0\\compressed\\xgzdhkwu75-9e33bzr2n9.gz",
       "SourceId": "PortfolioWebsite",
       "SourceType": "Computed",
       "ContentRoot": "E:\\Coding\\Neumont\\pro310_portfolio\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "_framework/PortfolioWebsite#[.{fingerprint=o6yjvp0ekk}]!.pdb.gz",
+      "RelativePath": "_framework/PortfolioWebsite#[.{fingerprint=9e33bzr2n9}]!.pdb.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -8473,8 +8473,8 @@
       "RelatedAsset": "E:\\Coding\\Neumont\\pro310_portfolio\\bin\\Debug\\net9.0\\wwwroot\\_framework\\PortfolioWebsite.pdb",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "znueu1dtts",
-      "Integrity": "vyRkPvCZqp1yPU0pps7hIgg50OH9qg8O8e6OgllLYAQ=",
+      "Fingerprint": "51z0dy5bir",
+      "Integrity": "p0kidGwB17jibxMcHVdMM+r+sGeYyeIMUpxr2X1SRAs=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "E:\\Coding\\Neumont\\pro310_portfolio\\bin\\Debug\\net9.0\\wwwroot\\_framework\\PortfolioWebsite.pdb"
@@ -8648,12 +8648,12 @@
       "OriginalItemSpec": "E:\\Coding\\Neumont\\pro310_portfolio\\bin\\Debug\\net9.0\\wwwroot\\_framework\\System.Private.DataContractSerialization.wasm"
     },
     {
-      "Identity": "E:\\Coding\\Neumont\\pro310_portfolio\\obj\\Debug\\net9.0\\compressed\\zq33ppl1i1-h3j9eqiyah.gz",
+      "Identity": "E:\\Coding\\Neumont\\pro310_portfolio\\obj\\Debug\\net9.0\\compressed\\zq33ppl1i1-w7s571tvek.gz",
       "SourceId": "PortfolioWebsite",
       "SourceType": "Computed",
       "ContentRoot": "E:\\Coding\\Neumont\\pro310_portfolio\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "_framework/PortfolioWebsite#[.{fingerprint=h3j9eqiyah}]!.wasm.gz",
+      "RelativePath": "_framework/PortfolioWebsite#[.{fingerprint=w7s571tvek}]!.wasm.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -8662,8 +8662,8 @@
       "RelatedAsset": "E:\\Coding\\Neumont\\pro310_portfolio\\bin\\Debug\\net9.0\\wwwroot\\_framework\\PortfolioWebsite.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "lgo6pbisqz",
-      "Integrity": "q1lBNhQN8ULRCC+OD9wa570UAJudiF2ZLVQTW/dGkGk=",
+      "Fingerprint": "t6mldoocaf",
+      "Integrity": "lXCmxyiAsjJvmMnJRw4mAOJchhSocGqf1xagbkSqHC4=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "E:\\Coding\\Neumont\\pro310_portfolio\\bin\\Debug\\net9.0\\wwwroot\\_framework\\PortfolioWebsite.wasm"
@@ -8725,8 +8725,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "81sotqnb8s",
-      "Integrity": "FEcjGL5Vayj/vVFfza9Fl7AOyv/PLNTZoBBgB6QciYc=",
+      "Fingerprint": "hoauqalu81",
+      "Integrity": "kSPOS+YOOwECpuxQ8MCbeIhPHAcRXFx02/ZWntC+gp4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\app.css"
@@ -8767,8 +8767,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "7jfti4by2n",
-      "Integrity": "HfqaIGBIPEH6Yr9XbP+BowyDBSHiq1beAWyDNw9Ph08=",
+      "Fingerprint": "fx7dmjjcte",
+      "Integrity": "Y5tFRg+i4j0ZJe6251KFH5nP2w2o6g+NzY7LcTAP9NE=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\index.html"
@@ -8794,11 +8794,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"inqGVYS5W3rDD6W4Yi0OHXwUDwQnhwUEQ/ycU9P7fxY=\""
+          "Value": "\"ASMftkqOE8RN+eywd+nTMzacQhgluQ/bsCQUIiVa6C0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 09 Apr 2026 06:15:21 GMT"
+          "Value": "Thu, 09 Apr 2026 07:43:50 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8808,18 +8808,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-inqGVYS5W3rDD6W4Yi0OHXwUDwQnhwUEQ/ycU9P7fxY="
+          "Value": "sha256-ASMftkqOE8RN+eywd+nTMzacQhgluQ/bsCQUIiVa6C0="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json",
-      "AssetFile": "E:\\Coding\\Neumont\\pro310_portfolio\\obj\\Debug\\net9.0\\compressed\\q0hp03zyw9-uuq6ktd7k9.gz",
+      "AssetFile": "E:\\Coding\\Neumont\\pro310_portfolio\\obj\\Debug\\net9.0\\compressed\\q0hp03zyw9-dxt2zzrcyd.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000081142486"
+          "Quality": "0.000081155657"
         }
       ],
       "ResponseHeaders": [
@@ -8829,15 +8829,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12323"
+          "Value": "12321"
         },
         {
           "Name": "ETag",
-          "Value": "\"zkCpci8ii4Y99Zh9lnL6uHYC17+V+1Pefx4fK+IanP0=\""
+          "Value": "\"WJ96IZfMcHC98X3jGx4PLfFf8ttR6U8xAS01Y/qC0j4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 09 Apr 2026 06:14:55 GMT"
+          "Value": "Thu, 09 Apr 2026 07:36:31 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8857,19 +8857,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"inqGVYS5W3rDD6W4Yi0OHXwUDwQnhwUEQ/ycU9P7fxY=\""
+          "Value": "W/\"ASMftkqOE8RN+eywd+nTMzacQhgluQ/bsCQUIiVa6C0=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-inqGVYS5W3rDD6W4Yi0OHXwUDwQnhwUEQ/ycU9P7fxY="
+          "Value": "sha256-ASMftkqOE8RN+eywd+nTMzacQhgluQ/bsCQUIiVa6C0="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json.gz",
-      "AssetFile": "E:\\Coding\\Neumont\\pro310_portfolio\\obj\\Debug\\net9.0\\compressed\\q0hp03zyw9-uuq6ktd7k9.gz",
+      "AssetFile": "E:\\Coding\\Neumont\\pro310_portfolio\\obj\\Debug\\net9.0\\compressed\\q0hp03zyw9-dxt2zzrcyd.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8878,7 +8878,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12323"
+          "Value": "12321"
         },
         {
           "Name": "Content-Type",
@@ -8886,11 +8886,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"zkCpci8ii4Y99Zh9lnL6uHYC17+V+1Pefx4fK+IanP0=\""
+          "Value": "\"WJ96IZfMcHC98X3jGx4PLfFf8ttR6U8xAS01Y/qC0j4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 09 Apr 2026 06:14:55 GMT"
+          "Value": "Thu, 09 Apr 2026 07:36:31 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8908,7 +8908,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-zkCpci8ii4Y99Zh9lnL6uHYC17+V+1Pefx4fK+IanP0="
+          "Value": "sha256-WJ96IZfMcHC98X3jGx4PLfFf8ttR6U8xAS01Y/qC0j4="
         }
       ]
     },
@@ -20374,168 +20374,7 @@
       ]
     },
     {
-      "Route": "_framework/PortfolioWebsite.h3j9eqiyah.wasm",
-      "AssetFile": "E:\\Coding\\Neumont\\pro310_portfolio\\bin\\Debug\\net9.0\\wwwroot\\_framework\\PortfolioWebsite.wasm",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "10005"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/wasm"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"EyEMghEQ+d6uVn1aJnBiGctJhs1eWd0W9HkkVDCkaoc=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 09 Apr 2026 05:20:52 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "h3j9eqiyah"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/PortfolioWebsite.wasm"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-EyEMghEQ+d6uVn1aJnBiGctJhs1eWd0W9HkkVDCkaoc="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/PortfolioWebsite.h3j9eqiyah.wasm",
-      "AssetFile": "E:\\Coding\\Neumont\\pro310_portfolio\\obj\\Debug\\net9.0\\compressed\\zq33ppl1i1-h3j9eqiyah.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000218388294"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "4578"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"q1lBNhQN8ULRCC+OD9wa570UAJudiF2ZLVQTW/dGkGk=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 09 Apr 2026 05:20:53 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/wasm"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"EyEMghEQ+d6uVn1aJnBiGctJhs1eWd0W9HkkVDCkaoc=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "h3j9eqiyah"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/PortfolioWebsite.wasm"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-EyEMghEQ+d6uVn1aJnBiGctJhs1eWd0W9HkkVDCkaoc="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/PortfolioWebsite.h3j9eqiyah.wasm.gz",
-      "AssetFile": "E:\\Coding\\Neumont\\pro310_portfolio\\obj\\Debug\\net9.0\\compressed\\zq33ppl1i1-h3j9eqiyah.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "4578"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/wasm"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"q1lBNhQN8ULRCC+OD9wa570UAJudiF2ZLVQTW/dGkGk=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 09 Apr 2026 05:20:53 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "h3j9eqiyah"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/PortfolioWebsite.wasm.gz"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-q1lBNhQN8ULRCC+OD9wa570UAJudiF2ZLVQTW/dGkGk="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/PortfolioWebsite.o6yjvp0ekk.pdb",
+      "Route": "_framework/PortfolioWebsite.9e33bzr2n9.pdb",
       "AssetFile": "E:\\Coding\\Neumont\\pro310_portfolio\\bin\\Debug\\net9.0\\wwwroot\\_framework\\PortfolioWebsite.pdb",
       "Selectors": [],
       "ResponseHeaders": [
@@ -20545,7 +20384,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "17232"
+          "Value": "20160"
         },
         {
           "Name": "Content-Type",
@@ -20553,11 +20392,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"0DY+h6xvysJomclxfLcGGeYh8dMTZsxSJPgaXXOJRgY=\""
+          "Value": "\"D0WxMmltzguujLclQAetEyf+FNQ9Q1MnKLWNv94crAo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 09 Apr 2026 06:02:19 GMT"
+          "Value": "Thu, 09 Apr 2026 07:43:49 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -20567,7 +20406,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "o6yjvp0ekk"
+          "Value": "9e33bzr2n9"
         },
         {
           "Name": "label",
@@ -20575,18 +20414,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-0DY+h6xvysJomclxfLcGGeYh8dMTZsxSJPgaXXOJRgY="
+          "Value": "sha256-D0WxMmltzguujLclQAetEyf+FNQ9Q1MnKLWNv94crAo="
         }
       ]
     },
     {
-      "Route": "_framework/PortfolioWebsite.o6yjvp0ekk.pdb",
-      "AssetFile": "E:\\Coding\\Neumont\\pro310_portfolio\\obj\\Debug\\net9.0\\compressed\\xgzdhkwu75-o6yjvp0ekk.gz",
+      "Route": "_framework/PortfolioWebsite.9e33bzr2n9.pdb",
+      "AssetFile": "E:\\Coding\\Neumont\\pro310_portfolio\\obj\\Debug\\net9.0\\compressed\\xgzdhkwu75-9e33bzr2n9.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000086572591"
+          "Quality": "0.000070077085"
         }
       ],
       "ResponseHeaders": [
@@ -20596,15 +20435,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "11550"
+          "Value": "14269"
         },
         {
           "Name": "ETag",
-          "Value": "\"vyRkPvCZqp1yPU0pps7hIgg50OH9qg8O8e6OgllLYAQ=\""
+          "Value": "\"p0kidGwB17jibxMcHVdMM+r+sGeYyeIMUpxr2X1SRAs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 09 Apr 2026 06:02:19 GMT"
+          "Value": "Thu, 09 Apr 2026 07:43:50 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -20624,13 +20463,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"0DY+h6xvysJomclxfLcGGeYh8dMTZsxSJPgaXXOJRgY=\""
+          "Value": "W/\"D0WxMmltzguujLclQAetEyf+FNQ9Q1MnKLWNv94crAo=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "o6yjvp0ekk"
+          "Value": "9e33bzr2n9"
         },
         {
           "Name": "label",
@@ -20638,13 +20477,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-0DY+h6xvysJomclxfLcGGeYh8dMTZsxSJPgaXXOJRgY="
+          "Value": "sha256-D0WxMmltzguujLclQAetEyf+FNQ9Q1MnKLWNv94crAo="
         }
       ]
     },
     {
-      "Route": "_framework/PortfolioWebsite.o6yjvp0ekk.pdb.gz",
-      "AssetFile": "E:\\Coding\\Neumont\\pro310_portfolio\\obj\\Debug\\net9.0\\compressed\\xgzdhkwu75-o6yjvp0ekk.gz",
+      "Route": "_framework/PortfolioWebsite.9e33bzr2n9.pdb.gz",
+      "AssetFile": "E:\\Coding\\Neumont\\pro310_portfolio\\obj\\Debug\\net9.0\\compressed\\xgzdhkwu75-9e33bzr2n9.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -20653,7 +20492,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "11550"
+          "Value": "14269"
         },
         {
           "Name": "Content-Type",
@@ -20661,11 +20500,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"vyRkPvCZqp1yPU0pps7hIgg50OH9qg8O8e6OgllLYAQ=\""
+          "Value": "\"p0kidGwB17jibxMcHVdMM+r+sGeYyeIMUpxr2X1SRAs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 09 Apr 2026 06:02:19 GMT"
+          "Value": "Thu, 09 Apr 2026 07:43:50 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -20683,7 +20522,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "o6yjvp0ekk"
+          "Value": "9e33bzr2n9"
         },
         {
           "Name": "label",
@@ -20691,7 +20530,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-vyRkPvCZqp1yPU0pps7hIgg50OH9qg8O8e6OgllLYAQ="
+          "Value": "sha256-p0kidGwB17jibxMcHVdMM+r+sGeYyeIMUpxr2X1SRAs="
         }
       ]
     },
@@ -20706,7 +20545,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "17232"
+          "Value": "20160"
         },
         {
           "Name": "Content-Type",
@@ -20714,11 +20553,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"0DY+h6xvysJomclxfLcGGeYh8dMTZsxSJPgaXXOJRgY=\""
+          "Value": "\"D0WxMmltzguujLclQAetEyf+FNQ9Q1MnKLWNv94crAo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 09 Apr 2026 06:02:19 GMT"
+          "Value": "Thu, 09 Apr 2026 07:43:49 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -20728,18 +20567,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-0DY+h6xvysJomclxfLcGGeYh8dMTZsxSJPgaXXOJRgY="
+          "Value": "sha256-D0WxMmltzguujLclQAetEyf+FNQ9Q1MnKLWNv94crAo="
         }
       ]
     },
     {
       "Route": "_framework/PortfolioWebsite.pdb",
-      "AssetFile": "E:\\Coding\\Neumont\\pro310_portfolio\\obj\\Debug\\net9.0\\compressed\\xgzdhkwu75-o6yjvp0ekk.gz",
+      "AssetFile": "E:\\Coding\\Neumont\\pro310_portfolio\\obj\\Debug\\net9.0\\compressed\\xgzdhkwu75-9e33bzr2n9.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000086572591"
+          "Quality": "0.000070077085"
         }
       ],
       "ResponseHeaders": [
@@ -20749,15 +20588,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "11550"
+          "Value": "14269"
         },
         {
           "Name": "ETag",
-          "Value": "\"vyRkPvCZqp1yPU0pps7hIgg50OH9qg8O8e6OgllLYAQ=\""
+          "Value": "\"p0kidGwB17jibxMcHVdMM+r+sGeYyeIMUpxr2X1SRAs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 09 Apr 2026 06:02:19 GMT"
+          "Value": "Thu, 09 Apr 2026 07:43:50 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -20777,19 +20616,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"0DY+h6xvysJomclxfLcGGeYh8dMTZsxSJPgaXXOJRgY=\""
+          "Value": "W/\"D0WxMmltzguujLclQAetEyf+FNQ9Q1MnKLWNv94crAo=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-0DY+h6xvysJomclxfLcGGeYh8dMTZsxSJPgaXXOJRgY="
+          "Value": "sha256-D0WxMmltzguujLclQAetEyf+FNQ9Q1MnKLWNv94crAo="
         }
       ]
     },
     {
       "Route": "_framework/PortfolioWebsite.pdb.gz",
-      "AssetFile": "E:\\Coding\\Neumont\\pro310_portfolio\\obj\\Debug\\net9.0\\compressed\\xgzdhkwu75-o6yjvp0ekk.gz",
+      "AssetFile": "E:\\Coding\\Neumont\\pro310_portfolio\\obj\\Debug\\net9.0\\compressed\\xgzdhkwu75-9e33bzr2n9.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -20798,7 +20637,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "11550"
+          "Value": "14269"
         },
         {
           "Name": "Content-Type",
@@ -20806,11 +20645,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"vyRkPvCZqp1yPU0pps7hIgg50OH9qg8O8e6OgllLYAQ=\""
+          "Value": "\"p0kidGwB17jibxMcHVdMM+r+sGeYyeIMUpxr2X1SRAs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 09 Apr 2026 06:02:19 GMT"
+          "Value": "Thu, 09 Apr 2026 07:43:50 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -20828,7 +20667,168 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-vyRkPvCZqp1yPU0pps7hIgg50OH9qg8O8e6OgllLYAQ="
+          "Value": "sha256-p0kidGwB17jibxMcHVdMM+r+sGeYyeIMUpxr2X1SRAs="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/PortfolioWebsite.w7s571tvek.wasm",
+      "AssetFile": "E:\\Coding\\Neumont\\pro310_portfolio\\bin\\Debug\\net9.0\\wwwroot\\_framework\\PortfolioWebsite.wasm",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10517"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HLkOVy+KO3Fpnam+/1a/8THmeCZhsuDoE84dx3STdCg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 09 Apr 2026 07:43:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "w7s571tvek"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/PortfolioWebsite.wasm"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-HLkOVy+KO3Fpnam+/1a/8THmeCZhsuDoE84dx3STdCg="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/PortfolioWebsite.w7s571tvek.wasm",
+      "AssetFile": "E:\\Coding\\Neumont\\pro310_portfolio\\obj\\Debug\\net9.0\\compressed\\zq33ppl1i1-w7s571tvek.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000207727462"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4813"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lXCmxyiAsjJvmMnJRw4mAOJchhSocGqf1xagbkSqHC4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 09 Apr 2026 07:43:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"HLkOVy+KO3Fpnam+/1a/8THmeCZhsuDoE84dx3STdCg=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "w7s571tvek"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/PortfolioWebsite.wasm"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-HLkOVy+KO3Fpnam+/1a/8THmeCZhsuDoE84dx3STdCg="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/PortfolioWebsite.w7s571tvek.wasm.gz",
+      "AssetFile": "E:\\Coding\\Neumont\\pro310_portfolio\\obj\\Debug\\net9.0\\compressed\\zq33ppl1i1-w7s571tvek.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4813"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lXCmxyiAsjJvmMnJRw4mAOJchhSocGqf1xagbkSqHC4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 09 Apr 2026 07:43:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "w7s571tvek"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/PortfolioWebsite.wasm.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-lXCmxyiAsjJvmMnJRw4mAOJchhSocGqf1xagbkSqHC4="
         }
       ]
     },
@@ -20843,7 +20843,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "10005"
+          "Value": "10517"
         },
         {
           "Name": "Content-Type",
@@ -20851,11 +20851,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"EyEMghEQ+d6uVn1aJnBiGctJhs1eWd0W9HkkVDCkaoc=\""
+          "Value": "\"HLkOVy+KO3Fpnam+/1a/8THmeCZhsuDoE84dx3STdCg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 09 Apr 2026 05:20:52 GMT"
+          "Value": "Thu, 09 Apr 2026 07:43:50 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -20865,18 +20865,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-EyEMghEQ+d6uVn1aJnBiGctJhs1eWd0W9HkkVDCkaoc="
+          "Value": "sha256-HLkOVy+KO3Fpnam+/1a/8THmeCZhsuDoE84dx3STdCg="
         }
       ]
     },
     {
       "Route": "_framework/PortfolioWebsite.wasm",
-      "AssetFile": "E:\\Coding\\Neumont\\pro310_portfolio\\obj\\Debug\\net9.0\\compressed\\zq33ppl1i1-h3j9eqiyah.gz",
+      "AssetFile": "E:\\Coding\\Neumont\\pro310_portfolio\\obj\\Debug\\net9.0\\compressed\\zq33ppl1i1-w7s571tvek.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000218388294"
+          "Quality": "0.000207727462"
         }
       ],
       "ResponseHeaders": [
@@ -20886,15 +20886,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "4578"
+          "Value": "4813"
         },
         {
           "Name": "ETag",
-          "Value": "\"q1lBNhQN8ULRCC+OD9wa570UAJudiF2ZLVQTW/dGkGk=\""
+          "Value": "\"lXCmxyiAsjJvmMnJRw4mAOJchhSocGqf1xagbkSqHC4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 09 Apr 2026 05:20:53 GMT"
+          "Value": "Thu, 09 Apr 2026 07:43:50 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -20914,19 +20914,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"EyEMghEQ+d6uVn1aJnBiGctJhs1eWd0W9HkkVDCkaoc=\""
+          "Value": "W/\"HLkOVy+KO3Fpnam+/1a/8THmeCZhsuDoE84dx3STdCg=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-EyEMghEQ+d6uVn1aJnBiGctJhs1eWd0W9HkkVDCkaoc="
+          "Value": "sha256-HLkOVy+KO3Fpnam+/1a/8THmeCZhsuDoE84dx3STdCg="
         }
       ]
     },
     {
       "Route": "_framework/PortfolioWebsite.wasm.gz",
-      "AssetFile": "E:\\Coding\\Neumont\\pro310_portfolio\\obj\\Debug\\net9.0\\compressed\\zq33ppl1i1-h3j9eqiyah.gz",
+      "AssetFile": "E:\\Coding\\Neumont\\pro310_portfolio\\obj\\Debug\\net9.0\\compressed\\zq33ppl1i1-w7s571tvek.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -20935,7 +20935,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "4578"
+          "Value": "4813"
         },
         {
           "Name": "Content-Type",
@@ -20943,11 +20943,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"q1lBNhQN8ULRCC+OD9wa570UAJudiF2ZLVQTW/dGkGk=\""
+          "Value": "\"lXCmxyiAsjJvmMnJRw4mAOJchhSocGqf1xagbkSqHC4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 09 Apr 2026 05:20:53 GMT"
+          "Value": "Thu, 09 Apr 2026 07:43:50 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -20965,7 +20965,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-q1lBNhQN8ULRCC+OD9wa570UAJudiF2ZLVQTW/dGkGk="
+          "Value": "sha256-lXCmxyiAsjJvmMnJRw4mAOJchhSocGqf1xagbkSqHC4="
         }
       ]
     },
@@ -69428,13 +69428,13 @@
       ]
     },
     {
-      "Route": "css/app.81sotqnb8s.css",
-      "AssetFile": "E:\\Coding\\Neumont\\pro310_portfolio\\obj\\Debug\\net9.0\\compressed\\nj7bf95yu8-81sotqnb8s.gz",
+      "Route": "css/app.css",
+      "AssetFile": "E:\\Coding\\Neumont\\pro310_portfolio\\obj\\Debug\\net9.0\\compressed\\nj7bf95yu8-hoauqalu81.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000539083558"
+          "Quality": "0.000523286238"
         }
       ],
       "ResponseHeaders": [
@@ -69444,19 +69444,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1854"
+          "Value": "1910"
         },
         {
           "Name": "ETag",
-          "Value": "\"N5JrG+Pqdmfaypc2TRz6d9RkCyFKw0S5EjtuPI3Qfrg=\""
+          "Value": "\"uejq1jrjA26WxIifyucc2EG9wj/iub0URYKdYMFHH1c=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 09 Apr 2026 04:03:23 GMT"
+          "Value": "Thu, 09 Apr 2026 07:43:48 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
+          "Value": "no-cache"
         },
         {
           "Name": "Content-Encoding",
@@ -69472,26 +69472,18 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"FEcjGL5Vayj/vVFfza9Fl7AOyv/PLNTZoBBgB6QciYc=\""
+          "Value": "W/\"kSPOS+YOOwECpuxQ8MCbeIhPHAcRXFx02/ZWntC+gp4=\""
         }
       ],
       "EndpointProperties": [
         {
-          "Name": "fingerprint",
-          "Value": "81sotqnb8s"
-        },
-        {
-          "Name": "label",
-          "Value": "css/app.css"
-        },
-        {
           "Name": "integrity",
-          "Value": "sha256-FEcjGL5Vayj/vVFfza9Fl7AOyv/PLNTZoBBgB6QciYc="
+          "Value": "sha256-kSPOS+YOOwECpuxQ8MCbeIhPHAcRXFx02/ZWntC+gp4="
         }
       ]
     },
     {
-      "Route": "css/app.81sotqnb8s.css",
+      "Route": "css/app.css",
       "AssetFile": "E:\\Coding\\Neumont\\pro310_portfolio\\wwwroot\\css\\app.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -69501,7 +69493,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3677"
+          "Value": "3840"
         },
         {
           "Name": "Content-Type",
@@ -69509,11 +69501,156 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"FEcjGL5Vayj/vVFfza9Fl7AOyv/PLNTZoBBgB6QciYc=\""
+          "Value": "\"kSPOS+YOOwECpuxQ8MCbeIhPHAcRXFx02/ZWntC+gp4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 09 Apr 2026 04:03:23 GMT"
+          "Value": "Thu, 09 Apr 2026 07:43:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-kSPOS+YOOwECpuxQ8MCbeIhPHAcRXFx02/ZWntC+gp4="
+        }
+      ]
+    },
+    {
+      "Route": "css/app.css.gz",
+      "AssetFile": "E:\\Coding\\Neumont\\pro310_portfolio\\obj\\Debug\\net9.0\\compressed\\nj7bf95yu8-hoauqalu81.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1910"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uejq1jrjA26WxIifyucc2EG9wj/iub0URYKdYMFHH1c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 09 Apr 2026 07:43:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-uejq1jrjA26WxIifyucc2EG9wj/iub0URYKdYMFHH1c="
+        }
+      ]
+    },
+    {
+      "Route": "css/app.hoauqalu81.css",
+      "AssetFile": "E:\\Coding\\Neumont\\pro310_portfolio\\obj\\Debug\\net9.0\\compressed\\nj7bf95yu8-hoauqalu81.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000523286238"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1910"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uejq1jrjA26WxIifyucc2EG9wj/iub0URYKdYMFHH1c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 09 Apr 2026 07:43:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"kSPOS+YOOwECpuxQ8MCbeIhPHAcRXFx02/ZWntC+gp4=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hoauqalu81"
+        },
+        {
+          "Name": "label",
+          "Value": "css/app.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-kSPOS+YOOwECpuxQ8MCbeIhPHAcRXFx02/ZWntC+gp4="
+        }
+      ]
+    },
+    {
+      "Route": "css/app.hoauqalu81.css",
+      "AssetFile": "E:\\Coding\\Neumont\\pro310_portfolio\\wwwroot\\css\\app.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3840"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kSPOS+YOOwECpuxQ8MCbeIhPHAcRXFx02/ZWntC+gp4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 09 Apr 2026 07:43:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -69523,7 +69660,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "81sotqnb8s"
+          "Value": "hoauqalu81"
         },
         {
           "Name": "label",
@@ -69531,13 +69668,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-FEcjGL5Vayj/vVFfza9Fl7AOyv/PLNTZoBBgB6QciYc="
+          "Value": "sha256-kSPOS+YOOwECpuxQ8MCbeIhPHAcRXFx02/ZWntC+gp4="
         }
       ]
     },
     {
-      "Route": "css/app.81sotqnb8s.css.gz",
-      "AssetFile": "E:\\Coding\\Neumont\\pro310_portfolio\\obj\\Debug\\net9.0\\compressed\\nj7bf95yu8-81sotqnb8s.gz",
+      "Route": "css/app.hoauqalu81.css.gz",
+      "AssetFile": "E:\\Coding\\Neumont\\pro310_portfolio\\obj\\Debug\\net9.0\\compressed\\nj7bf95yu8-hoauqalu81.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -69546,7 +69683,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1854"
+          "Value": "1910"
         },
         {
           "Name": "Content-Type",
@@ -69554,11 +69691,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"N5JrG+Pqdmfaypc2TRz6d9RkCyFKw0S5EjtuPI3Qfrg=\""
+          "Value": "\"uejq1jrjA26WxIifyucc2EG9wj/iub0URYKdYMFHH1c=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 09 Apr 2026 04:03:23 GMT"
+          "Value": "Thu, 09 Apr 2026 07:43:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -69576,7 +69713,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "81sotqnb8s"
+          "Value": "hoauqalu81"
         },
         {
           "Name": "label",
@@ -69584,144 +69721,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-N5JrG+Pqdmfaypc2TRz6d9RkCyFKw0S5EjtuPI3Qfrg="
-        }
-      ]
-    },
-    {
-      "Route": "css/app.css",
-      "AssetFile": "E:\\Coding\\Neumont\\pro310_portfolio\\obj\\Debug\\net9.0\\compressed\\nj7bf95yu8-81sotqnb8s.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000539083558"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1854"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"N5JrG+Pqdmfaypc2TRz6d9RkCyFKw0S5EjtuPI3Qfrg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 09 Apr 2026 04:03:23 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"FEcjGL5Vayj/vVFfza9Fl7AOyv/PLNTZoBBgB6QciYc=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-FEcjGL5Vayj/vVFfza9Fl7AOyv/PLNTZoBBgB6QciYc="
-        }
-      ]
-    },
-    {
-      "Route": "css/app.css",
-      "AssetFile": "E:\\Coding\\Neumont\\pro310_portfolio\\wwwroot\\css\\app.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "3677"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"FEcjGL5Vayj/vVFfza9Fl7AOyv/PLNTZoBBgB6QciYc=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 09 Apr 2026 04:03:23 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-FEcjGL5Vayj/vVFfza9Fl7AOyv/PLNTZoBBgB6QciYc="
-        }
-      ]
-    },
-    {
-      "Route": "css/app.css.gz",
-      "AssetFile": "E:\\Coding\\Neumont\\pro310_portfolio\\obj\\Debug\\net9.0\\compressed\\nj7bf95yu8-81sotqnb8s.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1854"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"N5JrG+Pqdmfaypc2TRz6d9RkCyFKw0S5EjtuPI3Qfrg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 09 Apr 2026 04:03:23 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-N5JrG+Pqdmfaypc2TRz6d9RkCyFKw0S5EjtuPI3Qfrg="
+          "Value": "sha256-uejq1jrjA26WxIifyucc2EG9wj/iub0URYKdYMFHH1c="
         }
       ]
     },
@@ -69990,13 +69990,13 @@
       ]
     },
     {
-      "Route": "index.7jfti4by2n.html",
-      "AssetFile": "E:\\Coding\\Neumont\\pro310_portfolio\\obj\\Debug\\net9.0\\compressed\\u280au3bye-7jfti4by2n.gz",
+      "Route": "index.fx7dmjjcte.html",
+      "AssetFile": "E:\\Coding\\Neumont\\pro310_portfolio\\obj\\Debug\\net9.0\\compressed\\u280au3bye-fx7dmjjcte.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001988071571"
+          "Quality": "0.001904761905"
         }
       ],
       "ResponseHeaders": [
@@ -70006,15 +70006,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "502"
+          "Value": "524"
         },
         {
           "Name": "ETag",
-          "Value": "\"q5E61dREoFk7TZIrIQ1nPxQTjBKr2OmF6wEpqsLAIL8=\""
+          "Value": "\"k2lD8Ulz9GTC2hkB7CCSahGB+SuemwDa3LN7+uR1Ot0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 09 Apr 2026 06:13:53 GMT"
+          "Value": "Thu, 09 Apr 2026 07:22:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -70034,13 +70034,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"HfqaIGBIPEH6Yr9XbP+BowyDBSHiq1beAWyDNw9Ph08=\""
+          "Value": "W/\"Y5tFRg+i4j0ZJe6251KFH5nP2w2o6g+NzY7LcTAP9NE=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "7jfti4by2n"
+          "Value": "fx7dmjjcte"
         },
         {
           "Name": "label",
@@ -70048,12 +70048,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-HfqaIGBIPEH6Yr9XbP+BowyDBSHiq1beAWyDNw9Ph08="
+          "Value": "sha256-Y5tFRg+i4j0ZJe6251KFH5nP2w2o6g+NzY7LcTAP9NE="
         }
       ]
     },
     {
-      "Route": "index.7jfti4by2n.html",
+      "Route": "index.fx7dmjjcte.html",
       "AssetFile": "E:\\Coding\\Neumont\\pro310_portfolio\\wwwroot\\index.html",
       "Selectors": [],
       "ResponseHeaders": [
@@ -70063,7 +70063,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "989"
+          "Value": "1021"
         },
         {
           "Name": "Content-Type",
@@ -70071,11 +70071,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"HfqaIGBIPEH6Yr9XbP+BowyDBSHiq1beAWyDNw9Ph08=\""
+          "Value": "\"Y5tFRg+i4j0ZJe6251KFH5nP2w2o6g+NzY7LcTAP9NE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 09 Apr 2026 06:13:53 GMT"
+          "Value": "Thu, 09 Apr 2026 07:22:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -70085,7 +70085,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "7jfti4by2n"
+          "Value": "fx7dmjjcte"
         },
         {
           "Name": "label",
@@ -70093,13 +70093,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-HfqaIGBIPEH6Yr9XbP+BowyDBSHiq1beAWyDNw9Ph08="
+          "Value": "sha256-Y5tFRg+i4j0ZJe6251KFH5nP2w2o6g+NzY7LcTAP9NE="
         }
       ]
     },
     {
-      "Route": "index.7jfti4by2n.html.gz",
-      "AssetFile": "E:\\Coding\\Neumont\\pro310_portfolio\\obj\\Debug\\net9.0\\compressed\\u280au3bye-7jfti4by2n.gz",
+      "Route": "index.fx7dmjjcte.html.gz",
+      "AssetFile": "E:\\Coding\\Neumont\\pro310_portfolio\\obj\\Debug\\net9.0\\compressed\\u280au3bye-fx7dmjjcte.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -70108,7 +70108,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "502"
+          "Value": "524"
         },
         {
           "Name": "Content-Type",
@@ -70116,11 +70116,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"q5E61dREoFk7TZIrIQ1nPxQTjBKr2OmF6wEpqsLAIL8=\""
+          "Value": "\"k2lD8Ulz9GTC2hkB7CCSahGB+SuemwDa3LN7+uR1Ot0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 09 Apr 2026 06:13:53 GMT"
+          "Value": "Thu, 09 Apr 2026 07:22:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -70138,7 +70138,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "7jfti4by2n"
+          "Value": "fx7dmjjcte"
         },
         {
           "Name": "label",
@@ -70146,18 +70146,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-q5E61dREoFk7TZIrIQ1nPxQTjBKr2OmF6wEpqsLAIL8="
+          "Value": "sha256-k2lD8Ulz9GTC2hkB7CCSahGB+SuemwDa3LN7+uR1Ot0="
         }
       ]
     },
     {
       "Route": "index.html",
-      "AssetFile": "E:\\Coding\\Neumont\\pro310_portfolio\\obj\\Debug\\net9.0\\compressed\\u280au3bye-7jfti4by2n.gz",
+      "AssetFile": "E:\\Coding\\Neumont\\pro310_portfolio\\obj\\Debug\\net9.0\\compressed\\u280au3bye-fx7dmjjcte.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001988071571"
+          "Quality": "0.001904761905"
         }
       ],
       "ResponseHeaders": [
@@ -70167,15 +70167,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "502"
+          "Value": "524"
         },
         {
           "Name": "ETag",
-          "Value": "\"q5E61dREoFk7TZIrIQ1nPxQTjBKr2OmF6wEpqsLAIL8=\""
+          "Value": "\"k2lD8Ulz9GTC2hkB7CCSahGB+SuemwDa3LN7+uR1Ot0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 09 Apr 2026 06:13:53 GMT"
+          "Value": "Thu, 09 Apr 2026 07:22:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -70195,13 +70195,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"HfqaIGBIPEH6Yr9XbP+BowyDBSHiq1beAWyDNw9Ph08=\""
+          "Value": "W/\"Y5tFRg+i4j0ZJe6251KFH5nP2w2o6g+NzY7LcTAP9NE=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-HfqaIGBIPEH6Yr9XbP+BowyDBSHiq1beAWyDNw9Ph08="
+          "Value": "sha256-Y5tFRg+i4j0ZJe6251KFH5nP2w2o6g+NzY7LcTAP9NE="
         }
       ]
     },
@@ -70216,7 +70216,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "989"
+          "Value": "1021"
         },
         {
           "Name": "Content-Type",
@@ -70224,11 +70224,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"HfqaIGBIPEH6Yr9XbP+BowyDBSHiq1beAWyDNw9Ph08=\""
+          "Value": "\"Y5tFRg+i4j0ZJe6251KFH5nP2w2o6g+NzY7LcTAP9NE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 09 Apr 2026 06:13:53 GMT"
+          "Value": "Thu, 09 Apr 2026 07:22:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -70238,13 +70238,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-HfqaIGBIPEH6Yr9XbP+BowyDBSHiq1beAWyDNw9Ph08="
+          "Value": "sha256-Y5tFRg+i4j0ZJe6251KFH5nP2w2o6g+NzY7LcTAP9NE="
         }
       ]
     },
     {
       "Route": "index.html.gz",
-      "AssetFile": "E:\\Coding\\Neumont\\pro310_portfolio\\obj\\Debug\\net9.0\\compressed\\u280au3bye-7jfti4by2n.gz",
+      "AssetFile": "E:\\Coding\\Neumont\\pro310_portfolio\\obj\\Debug\\net9.0\\compressed\\u280au3bye-fx7dmjjcte.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -70253,7 +70253,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "502"
+          "Value": "524"
         },
         {
           "Name": "Content-Type",
@@ -70261,11 +70261,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"q5E61dREoFk7TZIrIQ1nPxQTjBKr2OmF6wEpqsLAIL8=\""
+          "Value": "\"k2lD8Ulz9GTC2hkB7CCSahGB+SuemwDa3LN7+uR1Ot0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 09 Apr 2026 06:13:53 GMT"
+          "Value": "Thu, 09 Apr 2026 07:22:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -70283,7 +70283,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-q5E61dREoFk7TZIrIQ1nPxQTjBKr2OmF6wEpqsLAIL8="
+          "Value": "sha256-k2lD8Ulz9GTC2hkB7CCSahGB+SuemwDa3LN7+uR1Ot0="
         }
       ]
     }
