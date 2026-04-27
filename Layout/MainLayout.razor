@@ -3,10 +3,10 @@
 @using PortfolioWebsite.Components
 @implements IDisposable
 
-<VcrOverlay ShowTimecode="true">
+<VcrOverlay ShowTimecode="true"/>
     <HexGrid Rows="25"
              Columns="40"
-             HexSize="25"
+             HexSize="50"
              StrokeWidth="4"
              GlitchChance="0.5"
              FadeVariation="0.5"
@@ -25,7 +25,7 @@
 
         <footer></footer>
     </div>
-</VcrOverlay>
+
 
 @code {
     private string _animClass = "page-enter"; // Initial entry

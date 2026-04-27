@@ -30,6 +30,8 @@
 
 body {
     pointer-events: none;
+    scrollbar-gutter: stable;
+    overflow-y: scroll;
     button, a {
         pointer-events: auto;
     }
@@ -57,11 +59,11 @@ body {
 /* Container to hold the VCR look */
 .vcr-container {
     position: fixed;
-    overflow: hidden;
     top: 0;
     left: 0;
     width: 100%;
     height: 100%;
+    z-index: 1000;
 }
 
 /* Horizontal scanlines using a repeating linear gradient */
