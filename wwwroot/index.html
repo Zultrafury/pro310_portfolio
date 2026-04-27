@@ -17,6 +17,17 @@
                 new Audio('sounds/click.mp3').play();
             }
         });
+
+        window.getWindowSize = () => {
+            return { width: window.innerWidth, height: window.innerHeight };
+        };
+
+        // Optional: Notify Blazor on every resize
+        window.onBrowserResize = (dotNetObj) => {
+            window.addEventListener('resize', () => {
+                dotNetObj.invokeMethodAsync('OnWindowResize', window.innerWidth, window.innerHeight);
+            });
+        };
     </script>
 </head>
 

@@ -4,7 +4,15 @@
 @implements IDisposable
 
 <VcrOverlay ShowTimecode="true">
-    <div class="invert centercontainer navbar" style="">
+    <HexGrid Rows="25"
+             Columns="40"
+             HexSize="25"
+             StrokeWidth="4"
+             GlitchChance="0.5"
+             FadeVariation="0.5"
+             StrokeColor="var(--primary)"
+             BackgroundColor="var(--secondary)"/>
+    <div class="invert centercontainer navbar">
         <h3>Zultrafury</h3>
         <a href="">Home</a>
         <a href="Projects">Projects</a>
@@ -12,6 +20,7 @@
         <a href="Contact">Contact</a>
     </div>
     <div class="page-container @(_animClass)">
+        
         @Body
 
         <footer></footer>
