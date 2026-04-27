@@ -1,6 +1,6 @@
 :root {
     --primary: #48e400;
-    --secondary: black;
+    --secondary: #131313;
 }
 
 .valid.modified:not([type=checkbox]) {
@@ -17,7 +17,7 @@
 
 /* Start of every page */
 .page-container {
-    transition: opacity 0.3s ease, transform 0.3s ease;
+    transition: opacity 0.2s steps(6), transform 0.2s steps(6);
 }
 
 /* Entering: Slide up and fade in */
@@ -29,13 +29,62 @@
 /* Exiting: Slide down and fade out */
 .page-exit {
     opacity: 0;
-    transform: translateY(20px);
+    transform: translateY(100px);
 }
 
-/* Neutral state during the instant the URL swaps */
+/* Neutral state during the instant the URL swaps 
 .page-loading-hidden {
     opacity: 0;
-    transition: none !important; /* Kill transition so it resets instantly */
+    transition: none !important; /* Kill transition so it resets instantly
+}
+*/
+
+/* Container to hold the VCR look */
+.vcr-container {
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+    height: 100%;
+}
+
+/* Horizontal scanlines using a repeating linear gradient */
+.vcr-container::before {
+    content: " ";
+    display: block;
+    position: absolute;
+    top: 0; left: 0; bottom: 0; right: 0;
+    background: linear-gradient(rgba(18, 16, 16, 0) 50%, rgba(0, 0, 0, 0.2) 50%),
+    linear-gradient(90deg, rgba(255, 0, 0, 0.06), rgba(0, 255, 0, 0.02), rgba(0, 0, 255, 0.06));
+    background-size: 100% 4px, 3px 100%;
+    z-index: 10;
+    pointer-events: none; /* Allows clicking elements underneath */
+}
+
+/* Screen flicker animation */
+@keyframes vcr-flicker {
+    0% { opacity: 0.1; }
+    50% { opacity: 0.55; }
+    100% { opacity: 0.1; }
+}
+
+.vcr-container::after {
+    content: " ";
+    display: block;
+    position: absolute;
+    top: 0; left: 0; bottom: 0; right: 0;
+    background: rgba(0, 0, 0, 0.1);
+    opacity: 0;
+    z-index: 11;
+    pointer-events: none;
+    animation: vcr-flicker 0.1s infinite;
+}
+
+.recording-blinker {
+    animation: recording-blinker 2s infinite steps(1, start);
+}
+
+@keyframes recording-blinker {
+    50% { opacity: 0; }
 }
 
 

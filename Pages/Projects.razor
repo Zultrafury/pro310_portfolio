@@ -3,7 +3,7 @@
 <PageTitle>Projects - Zultrafury</PageTitle>
 
 <div style="width: fit-content; margin: auto; justify-content: center">
-    <h1 style="margin-bottom: 3rem">Projects</h1>
+    <h1 style="margin-bottom: 0rem">Projects</h1>
     <div style="display:flex; flex-flow: column">
     @foreach (Project p in ps)
     {
@@ -11,9 +11,9 @@
             <h3><strong><b>@p.Name</b></strong></h3>
             @if (p.Image != "")
             {
-                <img src="@p.Image" style="width: 16rem; float: right; margin-left: 1rem" alt="@p.Name thumbnail"/>
+                <img src="@p.Image" style="width:20em; float: right; margin-left: 1rem" alt="@p.Name thumbnail"/>
             }
-            <div style="max-width: 40rem">
+            <div style="max-width: 50rem">
                 <p>@p.Description</p>
                 <div class="invert" style="width: fit-content; padding: 0.5rem"><a href="@p.Link" target="_blank">Visit</a></div>
             </div>
@@ -53,7 +53,6 @@
             Name = "2D Game Engine",
             Description = "A scene-based game engine I wrote in C++ using SDL2 " +
                           "and FMOD. Includes a game I made with it.",
-            Image = "zf_avatar.png",
             Link = "https://github.com/Zultrafury/gat150_project/releases/tag/v1"
         },
         new()

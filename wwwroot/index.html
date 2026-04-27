@@ -10,6 +10,14 @@
     <link rel="icon" type="image/x-icon" href="favicon.png"/>
     <!-- If you add any scoped CSS files, uncomment the following to load them
     <link href="PortfolioWebsite.styles.css" rel="stylesheet" /> -->
+    <script>
+        window.addEventListener('click', (e) => {
+            const target = e.target.closest('a, button');
+            if (target) {
+                new Audio('sounds/click.mp3').play();
+            }
+        });
+    </script>
 </head>
 
 <body style="background-color: black">

@@ -1,0 +1,50 @@
+﻿@using System.Timers
+@implements IDisposable
+
+<div class="vcr-container" style="padding-bottom: 100px">
+    @ChildContent
+    
+    @if (ShowTimecode)
+    {
+        <div class="vcr-text">
+            <svg class="recording-blinker" width="11" height="11">
+                <circle cx="5" cy="5" r="5" fill="green"/>
+            </svg>
+            PLAY @DateTime.Now.ToString("HH:mm:ss")
+        </div>
+    }
+</div>
+
+@code {
+    [Parameter] public RenderFragment? ChildContent { get; set; }
+    [Parameter] public bool ShowTimecode { get; set; } = true;
+
+    private Timer? _timer;
+
+    protected override void OnInitialized()
+    {
+        // Set up a timer to tick every 1000ms (1 second)
+        _timer = new Timer(1000);
+        _timer.Elapsed += (sender, e) => InvokeAsync(StateHasChanged);
+        _timer.Enabled = true;
+    }
+
+    public void Dispose()
+    {
+        // Clean up the timer when the component is destroyed
+        _timer?.Dispose();
+    }
+}
+
+<style>
+    .vcr-text {
+        position: fixed;
+        bottom: 20px;
+        right: 20px;
+        color: #fff;
+        font-family: 'Courier New', Courier, monospace;
+        font-size: 1.5rem;
+        text-shadow: 2px 2px #000;
+        z-index: 12;
+    }
+</style>

@@ -11,14 +11,25 @@
             <img src="@c.Item2" style="width: 2rem; height: 2rem;" alt="@c.Item1 icon"/>
         </div>
         <h3><b>@c.Item1:</b></h3>
-        <p>@c.Item3</p>
+        <div style="display: flex; align-items: center">
+            @if (c.Item4 == "")
+            {
+                <p>@c.Item3</p>
+            }
+            else
+            {
+                <a href="@c.Item4" target="_blank" rel="noopener noreferrer">@c.Item3</a>
+            }
+        </div>
     </div>
 }
 
 @code {
-    List<(string,string,string)> contacts = new()
+    List<(string,string,string,string)> contacts = new()
     {
-        ("Email","zf_avatar.png","zultrafury@gmail.com"),
-        ("Discord","image","zultrafury")
+        ("Email","images/email.svg","zultrafury@gmail.com",""),
+        ("Discord","images/discord.png","zultrafury",""),
+        ("LinkedIn","images/linkedin.png","Zac Stasiak","https://www.linkedin.com/in/zac-stasiak-571848294/")
     };
 }
+
