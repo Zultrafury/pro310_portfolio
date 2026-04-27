@@ -1,13 +1,61 @@
 ﻿@inherits LayoutComponentBase
+@inject NavigationManager Nav
+@implements IDisposable
 
-<div class="invert centercontainer navbar" style="">
-    <h3>Zultrafury</h3>
-    <a href="">Home</a>
-    <a href="Projects">Projects</a>
-    <a href="About">About</a>
-    <a href="Contact">Contact</a>
+<div class="page-container @(_animClass)">
+    <div class="invert centercontainer navbar" style="">
+        <h3>Zultrafury</h3>
+        <a href="">Home</a>
+        <a href="Projects">Projects</a>
+        <a href="About">About</a>
+        <a href="Contact">Contact</a>
+    </div>
+
+    @Body
+
+    <footer></footer>
 </div>
 
-@Body
+@code {
+    private string _animClass = "page-enter"; // Initial entry
+    private bool _isProcessing = false;
+    private IDisposable? _navSubscription;
 
-<footer></footer>
+    protected override void OnInitialized()
+    {
+        _navSubscription = Nav.RegisterLocationChangingHandler(HandleLocationChanging);
+    }
+
+    private async ValueTask HandleLocationChanging(LocationChangingContext context)
+    {
+        if (_isProcessing) return;
+
+        context.PreventNavigation();
+        _isProcessing = true;
+
+        // 1. Trigger Exit Animation
+        _animClass = "page-exit";
+        StateHasChanged();
+
+        // 2. Wait for exit to finish
+        await Task.Delay(300); 
+
+        // 3. Reset to neutral state BEFORE navigating 
+        // This prevents the new page from inheriting "page-exit" styles
+        _animClass = "page-loading-hidden"; 
+        StateHasChanged();
+        
+        // Small yield to let the browser process the hidden state
+        await Task.Delay(10);
+
+        // 4. Perform the actual navigation
+        Nav.NavigateTo(context.TargetLocation);
+
+        // 5. Trigger Entrance Animation for the next page
+        _animClass = "page-enter";
+        _isProcessing = false;
+        await InvokeAsync(StateHasChanged);
+    }
+
+    public void Dispose() => _navSubscription?.Dispose();
+}

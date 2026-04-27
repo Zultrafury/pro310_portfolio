@@ -4,13 +4,14 @@
 
 <div style="width: fit-content; margin: auto; justify-content: center">
     <h1 style="margin-bottom: 3rem">Projects</h1>
+    <div style="display:flex; flex-flow: column">
     @foreach (Project p in ps)
     {
-        <div style="margin-bottom: 3rem">
+        <div style="margin-bottom: 1rem">
             <h3><strong><b>@p.Name</b></strong></h3>
             @if (p.Image != "")
             {
-                <img src="@p.Image" style="width: 16rem; object-fit: cover; float: right; margin-left: 1rem" alt="@p.Name thumbnail"/>
+                <img src="@p.Image" style="width: 16rem; float: right; margin-left: 1rem" alt="@p.Name thumbnail"/>
             }
             <div style="max-width: 40rem">
                 <p>@p.Description</p>
@@ -18,6 +19,7 @@
             </div>
         </div>
     }
+    </div>
 </div>
 
 @code {
@@ -36,13 +38,14 @@
             Name = "Calliope RPG Engine",
             Description = "A multi-featured open-source RPG game engine I made " +
                           "in C# using Monogame for my college capstone.",
-            Image = "zf_avatar.png",
+            Image = "images/calliope_screenshot.png",
             Link = "https://github.com/Zultrafury/CalliopeRPGEngine"
         },
         new()
         {
             Name = "Raylib Physics Games",
             Description = "Two programs I made with Raylib for C++.",
+            Image = "images/physics_engine_screenshot.png",
             Link = "https://github.com/Zultrafury/GAT315_gamephysics/releases/tag/v1"
         },
         new()

@@ -15,6 +15,30 @@
     color: red;
 }
 
+/* Start of every page */
+.page-container {
+    transition: opacity 0.3s ease, transform 0.3s ease;
+}
+
+/* Entering: Slide up and fade in */
+.page-enter {
+    opacity: 1;
+    transform: translateY(0);
+}
+
+/* Exiting: Slide down and fade out */
+.page-exit {
+    opacity: 0;
+    transform: translateY(20px);
+}
+
+/* Neutral state during the instant the URL swaps */
+.page-loading-hidden {
+    opacity: 0;
+    transition: none !important; /* Kill transition so it resets instantly */
+}
+
+
 *, *:visited {
     font-family: monospace;
     color: var(--primary);
