@@ -1,0 +1,4 @@
+features:
+- add youtube and spotify and github to home
+- get screenshots of remaining projects (add to release/page) and credit  music in them
+- add something like a spinning icosahedron to home
